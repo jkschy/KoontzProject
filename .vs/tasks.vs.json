@@ -5,6 +5,16 @@
       "taskLabel": "task-KoontzProject",
       "appliesTo": "/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-koontzProject",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-koontzProject",
+      "appliesTo": "/",
+      "type": "launch"
     }
   ]
 }
